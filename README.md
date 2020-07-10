@@ -14,9 +14,9 @@ We are a team of two Sowmya and Sukanya. We are planning to work together throug
 * Sukanya: Processing and Visualizing the patterns in traffic congestion.
 
 # Project Milestones
-* Traffic data collection 
-* Data Cleaning
+* Gather 2018-2019 NBA Schedule dates in moda center, in order to collect the data according to the dates.
+* Collect traffic data of six locations (5 near and 1 far) from the portal.
+* Convert the  generic collected data, clean and clear the data by removing unwanted rows like speed = 0 or speed = negative number or if volume = 0 when speed > 0.
 * Creation of tables in the database based on the game and non-game days.
-* Processing the data to perform analysis
-* Deriving at least 3 different analysis from the data
-
+* Processing the data to perform analysis.
+* Make a list of all the different analyses that we wanted to do in this project.
